@@ -1,6 +1,6 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Usama+Wahid+%F0%9F%91%8B;Technical+Project+Manager+%C3%97+Data+Engineer;I+build+Medallion+data+warehouses;From+raw+ERP+exports+to+executive+dashboards;9+years+shipping+end-to-end" alt="Typing SVG" />
+<img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=26&duration=3500&pause=800&color=2F81F7&center=true&vCenter=true&width=600&lines=Hi%2C+I'm+Usama+Wahid+%F0%9F%91%8B;Technical+Manager+%C3%97+Data+Engineer;I+build+Medallion+data+warehouses;From+raw+ERP+exports+to+executive+dashboards;9+years+shipping+end-to-end" alt="Typing SVG" />
 
 <br/>
 
