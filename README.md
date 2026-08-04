@@ -97,19 +97,3 @@
 <a href="https://instagram.com/unsama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="unsama" height="30" width="40" /></a>
 <a href="https://medium.com/@unsama" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/medium.svg" alt="@unsama" height="30" width="40" /></a>
 </p>
-
----
-
-### ☕ Support
-
-<p><a href="https://www.buymeacoffee.com/unsama"> <img align="left" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" height="50" width="210" alt="unsama" /></a></p><br><br>
-
----
-
-### 📊 GitHub Stats
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=unsama&show_icons=true&locale=en&layout=compact" alt="unsama" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=unsama&show_icons=true&locale=en" alt="unsama" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=unsama&" alt="unsama" /></p>
