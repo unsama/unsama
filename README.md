@@ -5,10 +5,6 @@
   <img src="https://komarev.com/ghpvc/?username=unsama&label=Profile%20views&color=0e75b6&style=flat" alt="unsama" />
 </p>
 
-<p align="center">
-  <a href="https://twitter.com/iamusamawahid" target="blank"><img src="https://img.shields.io/twitter/follow/iamusamawahid?logo=twitter&style=for-the-badge" alt="iamusamawahid" /></a>
-</p>
-
 ---
 
 ### 🚀 About Me
@@ -21,7 +17,7 @@
 - 💬 Ask me about **Data Engineering, Azure Synapse, Power BI/DAX, SQL Server, Python ETL, React, Vue, Firebase**
 - 📫 Reach me at **usamawahid93@gmail.com**
 - 📄 My experience on [LinkedIn](https://www.linkedin.com/in/usama-wahid-3a0142119/)
-- ⚡ Fun fact: **I am technology MAD**
+- ⚡ Fun fact: **I debug pipelines by day and analyze PSX stocks by night**
 
 ---
 
