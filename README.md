@@ -86,16 +86,6 @@ usama_wahid:
 ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-DD2C00?style=for-the-badge&logo=firebase&logoColor=white)
 
----
-
-## 📊 GitHub Stats
-
-<div align="center">
-
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=unsama&show_icons=true&theme=tokyonight&hide_border=true&bg_color=00000000" alt="stats" />
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=unsama&layout=compact&theme=tokyonight&hide_border=true&bg_color=00000000" alt="langs" />
-
-</div>
 
 ---
 
@@ -116,6 +106,6 @@ usama_wahid:
 
 <br/>
 
-*⚡ "verify before trusting" — my data-quality discipline and life motto*
+*⚡ "verify before trusting" my data-quality discipline and life motto*
 
 </div>
